@@ -1,0 +1,1 @@
+var domain_ip_api = 'https://api.tiiao.cn/';
